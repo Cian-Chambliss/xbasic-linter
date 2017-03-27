@@ -1,6 +1,6 @@
 {
   "name": "xbasic-linter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Xbasic Linter module",
   "main": "index.js",
   "scripts": {
